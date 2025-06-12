@@ -6,7 +6,7 @@ Welcome to LeRobot Chat UI! This project enables seamless interaction with LeRob
 
 Before getting started, make sure you have these components installed:
 
-1. [LeRobot](https://github.com/open-webui/lerobot) - The core robotics framework
+1. [LeRobot](https://github.com/huggingface/lerobot) - The core robotics framework
 2. [uv](https://docs.astral.sh/uv/) - Python package manager for dependency management
 
 ## Getting Started
